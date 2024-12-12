@@ -1,5 +1,8 @@
 # Changelog
 
+## 3.2.0
+  * Enhance Log-Based Replication to Support Transactional Records [#119](https://github.com/singer-io/tap-mongodb/pull/119)
+
 ## 3.1.2
   * Allows to specify string values as projection [#94](https://github.com/singer-io/tap-mongodb/pull/94)
 
